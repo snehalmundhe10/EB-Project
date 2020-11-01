@@ -1,5 +1,5 @@
 # Elastic Beanstalk Deployment 
-Cloud based application for uploading and filtering images
+Deployment of image uploading and filering application on Elastic Beanstalk
 
 ### Prerequisite
 1. AWS account
@@ -31,5 +31,5 @@ Cloud based application for uploading and filtering images
 ### Author
 Snehal Mundhe
 
-# Acknowledgments
+### Acknowledgments
 Udacity Cloud Developer NanoDegree
