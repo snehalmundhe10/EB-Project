@@ -6,12 +6,13 @@ Deployment of image uploading and filering application on Elastic Beanstalk
 
 ### Procedure 
 1. Run npm install
-2. Implement RESTful endpoint for image uploading and filtering
+2. Start the local server with npm run dev
+3. Implement RESTful endpoint for image uploading and filtering
 3. Test the endpoint using POSTMAN
 4. Modify config.yml of .elasticbeanstalk/config.yml
 5. Run npm run build
-6. Configure local repository for elastic beanstalk environment by running eb init
-7. Create the elastic beanstalk environment and deploy an application version to it by running eb create
+6. Configure local repository for elastic beanstalk environment with eb init
+7. Create the elastic beanstalk environment and deploy an application version to it with eb create
 
 ### AWS Services / Dependencies
 1. AWS Elastic Beanstalk
