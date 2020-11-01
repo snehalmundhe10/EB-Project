@@ -15,7 +15,7 @@ Deployment of image uploading and filering application on Elastic Beanstalk
 1. AWS Elastic Beanstalk
 
 ### Elastic Beanstalk URLs
-1. Dev : image-filter-starter-code-dev2222.us-east-2.elasticbeanstalk.com
+1. Dev : http://image-filter-starter-code-dev2222.us-east-2.elasticbeanstalk.com
 2. Example : http://image-filter-starter-code-dev2222.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 ### Deployment Screenshots
