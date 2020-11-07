@@ -34,5 +34,3 @@ Deployment of image uploading and filering application on Elastic Beanstalk
 ### Author
 Snehal Mundhe
 
-### Acknowledgments
-Udacity Cloud Developer NanoDegree
